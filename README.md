@@ -23,4 +23,5 @@ Screenshot-
 
 ![Screenshot 2024-02-07 173613](https://github.com/Ashnikasharma/Notepad_Clone/assets/145584301/73761bf7-8047-4429-a587-d4dd5054dfc8)
 ![Screenshot 2024-02-07 174827](https://github.com/Ashnikasharma/Notepad_Clone/assets/145584301/77cb7b4d-c23e-487e-9a31-fa05ba515f1c)
-![Screenshot 2024-02-07 175014](https://github.com/Ashnikasharma/Notepad_Clone/assets/145584301/96481b88-39e5-4e16-bde2-08d5ccfd56c0)
+![Screenshot 2024-02-07 175910](https://github.com/Ashnikasharma/Notepad_Clone/assets/145584301/e3bdf26d-ced7-4b24-a142-be375d379462)
+
